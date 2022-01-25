@@ -2,7 +2,7 @@ import Button from './Button';
 const Home = ({onRetrieve}) => {
     return (  
         <div>
-            <p>Learn React</p>
+            <p>Pull Monster Hunter</p>
             <Button 
              color='green' text='Retrieve' onClick={onRetrieve} />
         </div>
